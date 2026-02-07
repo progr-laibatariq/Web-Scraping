@@ -31,6 +31,6 @@ A specialized tool for extracting multi-row product data from **Limelight**, han
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/python-limelight-scraper.git](https://github.com/progr-laibatariq/python-limelight-scraper.git)
+git clone https://github.com/progr-laibatariq/python-limelight-scraper.git
 cd python-limelight-scraper
 pip install -r requirements.txt
